@@ -1,0 +1,24 @@
+{
+  "latest": "0.1.0",
+  "cache": {
+    "version": "2026-08-31",
+    "updatedAt": "2026-08-31T02:41:00Z",
+    "changelog": "Shipped Intune settings catalog as of 31/08/2026.",
+    "files": {
+      "settings": "https://github.com/SimpleWooden/AttunedUpdates/blob/main/setting-catalog/settings.json",
+      "categories": "https://github.com/SimpleWooden/AttunedUpdates/blob/main/setting-catalog/categories.json",
+      "meta": "https://github.com/SimpleWooden/AttunedUpdates/blob/main/setting-catalog/meta.json"
+    }
+  },
+  "releases": [
+    {
+      "version": "0.1.0",
+      "releasedAt": "2026-10-08",
+      "changelog": "First hybrid Attuned desktop: projects and connection types, point-in-time baselines, bundles, search, and in-app updates for both the installer and the portable zip.",
+      "downloadUrl": "https://github.com/SimpleWooden/AttunedUpdates/releases/download/v0.1.0/Attuned_0.1.0_x64-setup.exe",
+      "sha256": "2c11fad66961bbcfe761aad430a27e9daa9635b612ca9683454a5e552a28d107",
+      "portableUrl": "https://github.com/SimpleWooden/AttunedUpdates/releases/download/v0.1.0/Attuned_0.1.0_portable.zip",
+      "portableSha256": "cb485a8641ce8c195388b36ee681375fe3082e4753ac8d81c42925852fa62e2f"
+    }
+  ]
+}
