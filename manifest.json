@@ -16,9 +16,9 @@
       "releasedAt": "2026-10-08",
       "changelog": "First hybrid Attuned desktop: projects and connection types, point-in-time baselines, bundles, search, and in-app updates for both the installer and the portable zip.",
       "downloadUrl": "https://github.com/SimpleWooden/AttunedUpdates/releases/download/v0.1.0/Attuned_0.1.0_x64-setup.exe",
-      "sha256": "2c11fad66961bbcfe761aad430a27e9daa9635b612ca9683454a5e552a28d107",
+      "sha256": "597d811a245c924f035638efbdf51c7b916468871db5a7b3772a091096e22d48",
       "portableUrl": "https://github.com/SimpleWooden/AttunedUpdates/releases/download/v0.1.0/Attuned_0.1.0_portable.zip",
-      "portableSha256": "cb485a8641ce8c195388b36ee681375fe3082e4753ac8d81c42925852fa62e2f"
+      "portableSha256": "ae2bdafe054dbe968d08051ed6cfce308264b41ef7dfc97d98034aca5241d223"
     }
   ]
 }
