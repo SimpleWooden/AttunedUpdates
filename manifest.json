@@ -1,5 +1,5 @@
 {
-  "latest": "0.1.0",
+  "latest": "0.2.0",
   "cache": {
     "version": "2026-08-31",
     "updatedAt": "2026-08-31T02:41:00Z",
@@ -19,6 +19,13 @@
       "sha256": "597d811a245c924f035638efbdf51c7b916468871db5a7b3772a091096e22d48",
       "portableUrl": "https://github.com/SimpleWooden/AttunedUpdates/releases/download/v0.1.0/Attuned_0.1.0_portable.zip",
       "portableSha256": "ae2bdafe054dbe968d08051ed6cfce308264b41ef7dfc97d98034aca5241d223"
+    },
+    {
+      "version": "0.2.0",
+      "releasedAt": "2026-10-16",
+      "changelog": "Intune workspace for policies, apps, deployments, Entra, signing, and Windows Update, with milestones, library bundles, and the copper-edge restyle.",
+      "downloadUrl": "https://github.com/SimpleWooden/AttunedUpdates/releases/download/v0.2.0/Attuned_0.2.0_x64-setup.exe",
+      "portableUrl": "https://github.com/SimpleWooden/AttunedUpdates/releases/download/v0.2.0/Attuned_0.2.0_portable.zip"
     }
   ]
 }
