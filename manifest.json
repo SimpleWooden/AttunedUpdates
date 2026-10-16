@@ -25,7 +25,9 @@
       "releasedAt": "2026-10-16",
       "changelog": "Intune workspace for policies, apps, deployments, Entra, signing, and Windows Update, with milestones, library bundles, and the copper-edge restyle.",
       "downloadUrl": "https://github.com/SimpleWooden/AttunedUpdates/releases/download/v0.2.0/Attuned_0.2.0_x64-setup.exe",
-      "portableUrl": "https://github.com/SimpleWooden/AttunedUpdates/releases/download/v0.2.0/Attuned_0.2.0_portable.zip"
+      "sha256": "05e172eb8c23a45e07ccd0fa0d70acf5def30beaa48496ebe6d9fee2f2a13c48",
+      "portableUrl": "https://github.com/SimpleWooden/AttunedUpdates/releases/download/v0.2.0/Attuned_0.2.0_portable.zip",
+      "portableSha256": "88e8c3910b585909f8ad5512b1a81d8b4c44b514820eac30c55ac49263b5ef12"
     }
   ]
 }
